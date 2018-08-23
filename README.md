@@ -12,7 +12,7 @@ Created by Yifei Shi, Kai Xu, Matthias Niessner, Szymon Rusinkiewicz and Thomas 
 You can download the data [here][2]
 
 ## Pretrained network download
-You can download our network model trained on 10 million triplets [here][3]
+You can download our network model trained on 10 million triplets [here][2]
 
 ## Usage - Coplanarity Network
 ### Dependancy
