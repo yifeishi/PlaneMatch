@@ -8,11 +8,8 @@ Created by Yifei Shi, Kai Xu, Matthias Niessner, Szymon Rusinkiewicz and Thomas 
 
 ![teaser](image/figure.PNG)
 
-## Data download
-You can download the data [here][2]
-
-## Pretrained network download
-You can download our network model trained on 10 million triplets [here][2]
+## Data & pretrained network download
+You can download the data [here][2] from the TUM cluster.
 
 ## Usage - Coplanarity Network
 ### Dependancy
@@ -68,6 +65,5 @@ If you find PlaneMatch useful in your research, please cite:
 ~~~~
 
 [1]:  http://www.yifeishi.net/files/shi_eccv18_planematch.pdf "PlaneMatch: Patch Coplanarity Prediction for Robust RGB-D Reconstruction"
-[2]:  https://docs.google.com/forms/d/e/1FAIpQLSeldrhc2aWUKdqpDDNPZksGGkdlYACtpyTl2C6hw5u23_KxjQ/viewform?usp=sf_link "Data"
-[3]:  https://www.dropbox.com/s/gbqlrivf32lbl8r/model.pkl?dl=0 "Pretrained network"
+[2]:  http://kaldir.vc.in.tum.de/planematch/ "Data and model"
 
